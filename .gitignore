@@ -2,5 +2,3 @@ target/
 .idea/
 *.iml
 out/
-departamentos.json
-casas.json

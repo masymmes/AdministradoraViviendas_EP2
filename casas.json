@@ -1,0 +1,20 @@
+[
+  {
+    "tienePatio": false,
+    "codigo": "3362",
+    "superficie": 150.0,
+    "habitaciones": 5
+  },
+  {
+    "tienePatio": true,
+    "codigo": "3362",
+    "superficie": 96.0,
+    "habitaciones": 2
+  },
+  {
+    "tienePatio": true,
+    "codigo": "6363",
+    "superficie": 250.0,
+    "habitaciones": 4
+  }
+]

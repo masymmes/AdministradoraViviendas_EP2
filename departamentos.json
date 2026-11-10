@@ -1,0 +1,34 @@
+[
+  {
+    "piso": 6,
+    "gastoComunAlDia": true,
+    "estacionamientoAsignado": true,
+    "codigo": "123",
+    "superficie": 50.0,
+    "habitaciones": 2
+  },
+  {
+    "piso": 12,
+    "gastoComunAlDia": false,
+    "estacionamientoAsignado": false,
+    "codigo": "859",
+    "superficie": 65.0,
+    "habitaciones": 1
+  },
+  {
+    "piso": 21,
+    "gastoComunAlDia": false,
+    "estacionamientoAsignado": true,
+    "codigo": "4521",
+    "superficie": 85.0,
+    "habitaciones": 3
+  },
+  {
+    "piso": 5,
+    "gastoComunAlDia": false,
+    "estacionamientoAsignado": false,
+    "codigo": "56552",
+    "superficie": 35.0,
+    "habitaciones": 2
+  }
+]
